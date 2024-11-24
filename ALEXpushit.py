@@ -1,1 +1,1 @@
-v = "Skorost"
+v = 5
